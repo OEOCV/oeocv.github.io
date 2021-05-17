@@ -8,6 +8,6 @@ then
 	unzip BibleMultiConverter-0.0.7.zip -d BibleMultiConverter-0.0.7
 fi
 
-java -jar ./BibleMultiConverter-0.0.7/BibleMultiConverter.jar USFM ./OEOCV/source/ RoundtripHTML ./build/bible
+java -jar ./BibleMultiConverter-0.0.7/BibleMultiConverter.jar USFM ./OEOCV/source/ RoundtripHTML ./docs/bible
 
 echo "Done"
