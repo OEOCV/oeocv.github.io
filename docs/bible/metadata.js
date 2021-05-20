@@ -88,6 +88,14 @@ type:"ot",
 nt:false,
 chapters:24
 },{
+abbr:"2Samuel",
+short:"2 Samuel",
+long:"The Second Book of Samuel",
+osis:"2Sam",
+type:"ot",
+nt:false,
+chapters:24
+},{
 abbr:"1Kings",
 short:"1 Kings",
 long:"The First Book of Kings",
